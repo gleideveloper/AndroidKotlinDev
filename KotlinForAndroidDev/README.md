@@ -22,3 +22,6 @@
 - Example#02 - Initialization
 - Example#03 - Inheritance and Subclass
 - Example#04 - Data Class
+## Topic#04 - Generics and Lambda
+- Example#01 - Generics
+- Example#01 - Lambdas
