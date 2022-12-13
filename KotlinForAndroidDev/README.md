@@ -17,3 +17,8 @@
 - Example#02 - ArrayLists
 - Example#03 - Lists
 - Example#04 - Maps
+## Topic#04 - Object Oriented Programming in Kotlin
+- Example#01 - Class and Primary/Secondary Constructor
+- Example#02 - Initialization
+- Example#03 - Inheritance and Subclass
+- Example#04 - Data Class

@@ -1,5 +1,3 @@
-import java.util.concurrent.locks.Condition
-
 fun main() {
     /*Example#01 - Flow control with For with Range
     forWithRange()
